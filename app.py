@@ -6,7 +6,6 @@ from dotenv import load_dotenv
 import os
 
 # 後で環境変数へ移動する予定
-URI = 'mysql+pymysql://root:Amhl0248110!@127.0.0.1/admin'
 
 app = Flask(__name__)
 
